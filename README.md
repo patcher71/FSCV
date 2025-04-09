@@ -6,4 +6,4 @@ The program begins by having the user import single or multiple I vs. T files wh
 
 **Caution: in this version, if the user selected parameters are not a close approximation to the curve, the algorithm may not converge on the "best fit" because it can get stuck in a local minimum. In other words, poor parameters may result in a poor fit.  Therefore, it is best to adjust the parameters to best match the curve, and then used the RD function to confirm that the fit is good.**  
 
-Updates: **v6 has some basic signal analysis calculations such as T80 (decay by 80% from peak), rate of decay, peak amplitude, etc.)
+Updates: **v6 has some basic signal analysis calculations such as T80 (decay by 80% from peak), rate of decay, peak amplitude, etc.
